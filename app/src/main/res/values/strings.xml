@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Passkeys demo App</string>
+    <string name="login">Login</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://passkeys.arthurusrex.fr/.well-known/assetlinks.json\" }]</string>
+</resources>
